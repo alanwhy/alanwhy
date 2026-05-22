@@ -2,7 +2,7 @@
 
 ### Hello 👋
 
-I'm an Engineer in Cennavi Beijing China, mainly for JavaScript.  
+I'm an Engineer in Seeway.ai Beijing China, mainly for JavaScript.  
 Thanks for you arriving.
 
 
